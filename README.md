@@ -5,5 +5,5 @@ Made with HTML5, CSS and JS.
 
 ### How to visualize it locally?
 - Click the green **Code** button on GitHub and selelect Download ZIP
-- Once downloaded, click ``index.html``
+- Once downloaded, unzip it anywhere and click ``index.html``
 - That's it!
