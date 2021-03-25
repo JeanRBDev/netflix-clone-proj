@@ -1,7 +1,7 @@
 # Netflix Clone
 
 Netflix main page clone (with a few additions/changes!) for portfolio and studying purposes.  
-Made with HTML5, CSS and JS.
+Made with HTML5, CSS and JS.  
 Frameworks: JQuery
 
 ## Preview
